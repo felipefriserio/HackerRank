@@ -18,13 +18,13 @@ public class Solution {
 
         String result = "";
         if (!isEven(inputNumber))
-            System.out.println("Weird")
+            result = "Weird";
         else if (inputNumber >= 2 && inputNumber <= 5)
-            System.out.println("Not Weird");
+            result = "Not Weird";
         else if (inputNumber >= 6 && inputNumber <= 20)
-            System.out.println("Weird");
+            result = "Weird";
         else if (inputNumber > 20)
-            System.out.println("Not Weird");
+            result = "Not Weird";
 
         System.out.println(result);
     }
