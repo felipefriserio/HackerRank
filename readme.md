@@ -10,8 +10,8 @@
 
 |  Subdomain   |                                        Challenge                                             |                                             Solution                                 |
 |:------------:|:--------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------:|
-| Introduction | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java)                    | [Solution.java](https://github.com/)                                                 |
-| Introduction | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1)     | [Solution.java](https://github.com/)                                                 |
+| Introduction | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java)                    | [Solution.java](https://github.com/felipefriserio/HackerRank/blob/main/Java/Introduction/Welcome%20to%20Java!/Solution.java)                                                 |
+| Introduction | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1)     | [Solution.java](https://github.com/felipefriserio/HackerRank/blob/main/Java/Introduction/Stdin%20and%20Stdout%20I/Solution.java)                                                 |
 
 
 
