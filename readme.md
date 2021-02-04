@@ -18,6 +18,7 @@
 | Introduction | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem)          | [Solution.java](https://github.com/felipefriserio/HackerRank/blob/main/Java/Introduction/Java%20Output%20Formatting/Solution.java)                                        |
 | Introduction | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem)                              | [Solution.java](https://github.com/felipefriserio/HackerRank/blob/main/Java/Introduction/Java%20Loops%20I/Solution.java)                                        |
 | Introduction | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem)                               | [Solution.java](https://github.com/felipefriserio/HackerRank/blob/main/Java/Introduction/Java%20Loops%20II/Solution.java)                                        |
+| Introduction | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem)                          | [Solution.java](https://github.com/felipefriserio/HackerRank/blob/main/Java/Introduction/Java%20Datatypes/Solution.java)                                        |
 
 
 
