@@ -19,6 +19,8 @@
 | Introduction | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem)                              | [Solution.java](https://github.com/felipefriserio/HackerRank/blob/main/Java/Introduction/Java%20Loops%20I/Solution.java)                                        |
 | Introduction | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem)                               | [Solution.java](https://github.com/felipefriserio/HackerRank/blob/main/Java/Introduction/Java%20Loops%20II/Solution.java)                                        |
 | Introduction | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem)                          | [Solution.java](https://github.com/felipefriserio/HackerRank/blob/main/Java/Introduction/Java%20Datatypes/Solution.java)                                        |
+| Introduction | [Java End of file](https://www.hackerrank.com/challenges/java-end-of-file/problem)                      | [Solution.java](https://github.com/felipefriserio/HackerRank/blob/main/Java/Introduction/Java%20End%20of%20file/Solution.java)                                        |
+
 
 
 
