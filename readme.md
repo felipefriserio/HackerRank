@@ -23,6 +23,8 @@
 | Introduction | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)        | [Solution.java](https://github.com/felipefriserio/HackerRank/blob/main/Java/Introduction/Java%20Static%20Initializer%20Block/Solution.java)                              |
 | Introduction | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem)                              | [Solution.java](https://github.com/felipefriserio/HackerRank/blob/main/Java/Introduction/Java%20Int%20to%20String/Solution.java)                              |
 | Introduction | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem)                              | [Solution.java](https://github.com/felipefriserio/HackerRank/blob/main/Java/Introduction/Java%20Date%20and%20Time/Solution.java)                              |
+| Introduction | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem)                    | [Solution.java](https://github.com/felipefriserio/HackerRank/blob/main/Java/Introduction/Java%20Currency%20Formatter/Solution.java)                              |
+
 
 
 
