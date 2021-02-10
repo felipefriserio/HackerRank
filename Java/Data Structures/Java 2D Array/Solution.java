@@ -27,17 +27,17 @@ public class Solution {
     }
 
     static int getMaxHourglass(int[][] array) {
-        int maxResult = 0;
+        int maxResult = Integer.MIN_VALUE;
 
-        for (int x = 0; x < array.length - 2; x++) {
-            int sum = 0;
-            for (int y = 0; y < array.length - 2; y++) {
-                sum = array[x][y]   + array[x+1][y]   + array[x+2][y] +
-                                      array[x+1][y+1] +
-                      array[x][y+2] + array[x+1][y+2] + array[x+2][y+2];
+        for (int row = 0; row < array.length - 2; row++) {
+            for (int column = 0; column < array.length - 2; column++) {
+                int sum = array[row + 0][column + 0]   + array[row + 0][column + 1]  + array[row + 0][column + 2] +
+                        array[row + 1][column + 1]   +
+                        array[row + 2][column + 0]   + array[row + 2][column + 1]  + array[row + 2][column + 2];
                 maxResult = sum > maxResult ? sum : maxResult;
             }
         }
         return maxResult;
     }
 }
+
