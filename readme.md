@@ -8,7 +8,6 @@
 
 # Java
 
-
 |  Subdomain   |                                        Challenge                                                                    |                                             Solution                                                                                                                     |
 |:------------:|:-------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Introduction | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java)                                           | [Solution.java](https://github.com/felipefriserio/HackerRank/blob/main/Java/Introduction/Welcome%20to%20Java!/Solution.java)                                             |
@@ -26,6 +25,9 @@
 | Introduction | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem)                    | [Solution.java](https://github.com/felipefriserio/HackerRank/blob/main/Java/Introduction/Java%20Currency%20Formatter/Solution.java)                              |
 | Data Structures | [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem)                        | [Solution.java](https://github.com/felipefriserio/HackerRank/blob/main/Java/Data%20Structures/Java%201D%20Array/Solution.java)                              |
 | Data Structures | [Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem)                                     | [Solution.java](https://github.com/felipefriserio/HackerRank/blob/main/Java/Data%20Structures/Java%202D%20Array/Solution.java)                              |
+| Data Structures | [Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray/problem)                            | [Solution.java](https://github.com/felipefriserio/HackerRank/blob/main/Java/Data%20Structures/Java%20Subarray/Solution.java)                              |
+| Data Structures | [Java ArrayList](https://www.hackerrank.com/challenges/java-arraylist/problem)                                   | [Solution.java](https://github.com/felipefriserio/HackerRank/blob/main/Java/Data%20Structures/Java%20ArrayList/Solution.java)                              |
+
 
 
 
