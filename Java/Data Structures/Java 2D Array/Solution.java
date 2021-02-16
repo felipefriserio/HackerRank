@@ -32,8 +32,8 @@ public class Solution {
         for (int row = 0; row < array.length - 2; row++) {
             for (int column = 0; column < array.length - 2; column++) {
                 int sum = array[row + 0][column + 0]   + array[row + 0][column + 1]  + array[row + 0][column + 2] +
-                        array[row + 1][column + 1]   +
-                        array[row + 2][column + 0]   + array[row + 2][column + 1]  + array[row + 2][column + 2];
+                          array[row + 1][column + 1]   +
+                          array[row + 2][column + 0]   + array[row + 2][column + 1]  + array[row + 2][column + 2];
                 maxResult = sum > maxResult ? sum : maxResult;
             }
         }
